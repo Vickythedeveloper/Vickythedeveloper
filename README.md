@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vickythedeveloper
-- 👀 I’m interested in solving problems by building softwares.
-- 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on prospective software engineers like me in a global scale.
+- 👋 Hi, I gather and share meaningful insights from data.
+- 👀 I’m interested in data science and ML algorithms. 
+- 🌱 I’m currently learning data science and visualization.
+- 💞️ I’m looking to collaborate with like-minded data scientists. 
 - 📫 How to reach me ... victordamilare218@gmail.com
 It's nice to be here!!!
 <!---
